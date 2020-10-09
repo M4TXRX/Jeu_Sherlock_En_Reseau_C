@@ -1,4 +1,5 @@
 ***************************************************************************************************************
+                                 Projet réalisé dans le cadre de mes études
 ***************************************************************************************************************
 Ce jeu en réseau (client/serveur) est comparable au cluedo. L'objectif étant de démasquer le coupable par
 une série de question. 
