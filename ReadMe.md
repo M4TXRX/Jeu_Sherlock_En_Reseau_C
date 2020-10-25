@@ -14,15 +14,6 @@ Vous pouvez trouver davantage de détails sur la partie code et sur comment lanc
 
 Allez dans le répertoire "Code_C" :
 
-* Pour compiler le fichier sh13.c (client) :
-		```
-		$ gcc -o sh13 sh13.c
-		```
-* Le compilateur creera un fichier executable client (lancez autant d'instances qu'il y a de joueurs)
-	- Pour lancer le programme tapez :
-		```
-		 $ ./sh13 <IP server> <Port server> <IP Client> <Port Client> <Nom du joueur>
-		```
 
 * Pour compiler le fichier server.c :
 		```
@@ -33,3 +24,14 @@ Allez dans le répertoire "Code_C" :
 		```
 	  $ ./server <Numéro de port Server>
 		```
+		
+* Pour compiler le fichier sh13.c (client) :
+		```
+		$ gcc -o sh13 sh13.c
+		```
+* Le compilateur creera un fichier executable client (lancez autant d'instances qu'il y a de joueurs)
+	- Pour lancer le programme tapez :
+		```
+		 $ ./sh13 <IP server> <Port server> <IP Client> <Port Client> <Nom du joueur>
+		```
+
