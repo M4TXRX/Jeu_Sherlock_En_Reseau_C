@@ -18,7 +18,7 @@ Allez dans le répertoire "Code_C" :
 		```
 		$ gcc -o sh13 sh13.c
 		```
-* Le compilateur creera un fichier executable client
+* Le compilateur creera un fichier executable client (lancez autant d'instances qu'il y a de joueurs)
 	- Pour lancer le programme tapez :
 		```
 		 $ ./sh13 <IP server> <Port server> <IP Client> <Port Client> <Nom du joueur>
