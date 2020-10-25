@@ -1,7 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
-* [Tree structure](#tree-structure)
 
 ## General info 
 Ce jeu en réseau (client/serveur) est comparable au cluedo. L'objectif étant de démasquer le coupable par
