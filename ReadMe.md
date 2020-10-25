@@ -19,7 +19,7 @@ Allez dans le répertoire "Code_C" :
 		```
 		$ gcc -o server server.c 
 		```
-* Le compilateur creera un fichier executable server
+* Le compilateur créera un fichier executable server.
 	- Pour lancer le programme tapez :
 		```
 	  $ ./server <Numéro de port Server>
@@ -29,7 +29,7 @@ Allez dans le répertoire "Code_C" :
 		```
 		$ gcc -o sh13 sh13.c
 		```
-* Le compilateur creera un fichier executable client (lancez autant d'instances qu'il y a de joueurs)
+* Le compilateur créera un fichier executable client (lancez autant d'instances qu'il y a de joueurs).
 	- Pour lancer le programme tapez :
 		```
 		 $ ./sh13 <IP server> <Port server> <IP Client> <Port Client> <Nom du joueur>
